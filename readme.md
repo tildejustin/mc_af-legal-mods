@@ -3,7 +3,8 @@ todo:
 - fabricproxy-lite, phosphor, chunkumulator...
 - investigate lithium ports for 22, 23, 24
 - set spawn v4 port to 1.RV-Pre1 v2 (old build has wrong modid)
-- fastreset for 22w13oneblockatatime - test, fix dep
+- fastreset 22w13oneblockatatime dep
+- extra-options 15w14a port
 
 format: "\<modid>/\<version range>/\<jar / link filename>" \: \[ \<supported versions>... ] \
 basically just legal mods directory structure

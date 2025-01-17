@@ -46,6 +46,10 @@
     "23w13a_or_b",
     "24w14potato"
   ],
+  "setspawnmod/1.14-1.18.2/setspawnmod-4.0.0+1.14-1.18.2.jar": [
+    "3D Shareware v1.34",
+    "22w13oneblockatatime"
+  ],
   "sleepbackground/1.18.2-1.19.4/sleepbackground-3.9.1-1.18.2-1.19.x.jar": [
     "22w13oneblockatatime",
     "23w13a_or_b"
@@ -62,9 +66,6 @@
   "sodium/1.18.2/sodium-fabric-mc1.18.2-0.4.1+build.15.json": [
     "22w13oneblockatatime"
   ],
-  "forceport/1.3-1.13.2/forceport-1.2.0.jar": [
-    "15w14a"
-  ],
   "antiresourcereload/1.15-1.15.2/antiresourcereload-4.0.3+1.15.2.jar": [
     "20w14infinite"
   ],
@@ -78,5 +79,20 @@
   ],
   "setspawnmod/1.14-1.18.2/setspawnmod-4.1.0+1.14-1.18.2.jar": [
     "20w14infinite"
+  ],
+  "extra-options/1.14-1.15.2/extra-options-2.0.1+1.14-1.15.2-20w14inf.jar": [
+    "3D Shareware v1.34"
+  ],
+  "anchiale/1.8-1.8.9/anchiale-1.8.9-3.0.0.jar": [
+    "15w14a"
+  ],
+  "extra-options/1.8.2-1.12.2/extra-options-2.0.1+1.8.2-1.12.2.jar": [
+    "15w14a"
+  ],
+  "forceport/1.3-1.13.2/forceport-1.2.0.jar": [
+    "15w14a"
+  ],
+  "setspawnmod/1.8-1.12.2/sleepbackground-3.8-1.8.x-1.12.x.jar": [
+    "15w14a"
   ]
 }

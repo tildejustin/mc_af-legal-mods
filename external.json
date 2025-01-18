@@ -51,7 +51,7 @@
     "20w14infinite",
     "22w13oneblockatatime"
   ],
-  "setspawnmod/1.8-1.12.2/setspawnmod-4.0.0+1.8-1.12.2.jar":[
+  "setspawnmod/1.8-1.12.2/setspawnmod-4.0.0+1.8-1.12.2.jar": [
     "15w14a"
   ],
   "sleepbackground/1.18.2-1.19.4/sleepbackground-3.9.1-1.18.2-1.19.x.jar": [
@@ -84,13 +84,19 @@
   "extra-options/1.14-1.15.2/extra-options-2.0.1+1.14-1.15.2-20w14inf.jar": [
     "3D Shareware v1.34"
   ],
-  "anchiale/1.8-1.8.9/anchiale-1.8.9-3.0.0.jar": [
+  "dynamicmenufps/1.3-1.12.2/mangodfps-1.1.0-1.3-1.12.jar": [
     "15w14a"
   ],
   "forceport/1.3-1.13.2/forceport-1.2.0.jar": [
     "15w14a"
   ],
+  "legacy-crash-fix/1.8-1.12.2/legacy-crash-fix-1.0.0+1.8-1.12.2.jar": [
+    "15w14a"
+  ],
   "sleepbackground/1.8-1.12.2/sleepbackground-3.8-1.8.x-1.12.x.jar": [
+    "15w14a"
+  ],
+  "state-output/1.8-1.12.2/state-output-1.2.0+1.8-1.12.2.jar": [
     "15w14a"
   ]
 }

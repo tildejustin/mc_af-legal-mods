@@ -38,16 +38,16 @@
   "standardsettings/1.20-1.21.1/standardsettings-1.2.5+1.20-1.21.1.jar": [
     "24w14potato"
   ],
-  "state-output/1.18.2-1.21.6/state-output-1.2.1+1.18.2-1.21.6.jar": [
+  "state-output/1.18.2-1.21.6/state-output-1.2.2+1.18.2-1.21.6.jar": [
     "22w13oneblockatatime",
     "23w13a_or_b",
     "24w14potato"
   ],
-  "setspawnmod/1.19-1.21.6/setspawnmod-4.1.1+1.19-1.21.4.jar": [
+  "setspawnmod/1.19-1.21.6/setspawnmod-4.2.0+1.19-1.21.4.jar": [
     "23w13a_or_b",
     "24w14potato"
   ],
-  "setspawnmod/1.14-1.18.2/setspawnmod-4.1.1+1.14-1.18.2.jar": [
+  "setspawnmod/1.14-1.18.2/setspawnmod-4.2.0+1.14-1.18.2.jar": [
     "3D Shareware v1.34",
     "20w14infinite",
     "22w13oneblockatatime"
@@ -109,7 +109,7 @@
   "standardsettings/1.21.2-1.21.5/standardsettings-1.2.4+1.21.3.jar": [
     "25w14craftmine"
   ],
-  "planifolia/1.21.2-1.21.5/planifolia-1.2.0+1.21.2-1.21.4.jar": [
+  "planifolia/1.21.2-1.21.5/planifolia-1.2.1+1.21.2-1.21.4.jar": [
     "25w14craftmine"
   ]
 }

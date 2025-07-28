@@ -74,7 +74,16 @@
   "sodium;1.18.2": [
     "22w13oneblockatatime"
   ],
-  "antiresourcereload;1.15": [
+  "antiresourcereload;1.15.2": [
+    "20w14infinite"
+  ],
+  "chunkumulator;1.16.1": [
+    "20w14infinite"
+  ],
+  "extra-options;1.15.2": [
+    "20w14infinite"
+  ],
+  "sleepbackground;1.15.2": [
     "20w14infinite"
   ],
   "voyager;1.14": [
